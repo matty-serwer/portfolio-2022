@@ -1,0 +1,10 @@
+.landing-header-container {
+    background-color: pink;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.landing-h1 {
+    font-family: 'Outfit', sans-serif;
+}
